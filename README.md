@@ -10,8 +10,8 @@ With 2.5 years of hands-on experience and contributions to numerous mobile and d
 - Fixed bugs and optimize performance.
 - Enhanced the user experience by improving navigation flow and UI responsiveness.
 - Ensured smoother app functionality through clean code refactoring and debugging.
-- 🔗 [PlayStore Link](https://play.google.com/store/apps/details?id=com.packagesmall.packagesmallapp&pcampaignid=web_share)
+🔗 [Play Store Link](https://play.google.com/store/apps/details?id=com.packagesmall.packagesmallapp&pcampaignid=web_share)  
+🎥 Watch Demo: *(Click the image below)*  
 [![Watch Demo](https://raw.githubusercontent.com/azizrh10/Aziz-Ur-Rehman---Flutter-Developer/main/packages-mall.png)](https://drive.google.com/file/d/1RrsTcfRt72AHuWVeFQfW-3WD7dN8mfzn/view?usp=sharing)
 
-- 🎥 [Watch Demo Video](https://drive.google.com/file/d/1RrsTcfRt72AHuWVeFQfW-3WD7dN8mfzn/view?usp=sharing)
 
