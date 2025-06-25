@@ -23,7 +23,7 @@ Below are some of the key projects I’ve contributed to:
 - 🔗 [Eagles Cars](https://www.linkedin.com/posts/nextwys_transportationapp-innovation-africantechsolutions-activity-7276911963287228417-KNYG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAElgzf8BkJYtFn50gK5717xgJZURG8krXBU)  
 - 🔗 [Cop Cup](https://www.linkedin.com/posts/nextwys_appdevelopment-foodtech-innovation-activity-7276115179308806144-dhVW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAElgzf8BkJYtFn50gK5717xgJZURG8krXBU)
 - 🔗 [Go Tawen](https://www.linkedin.com/posts/nextwys_transportationapp-techinnovation-ridehailing-activity-7275747075537911808-zdfH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAElgzf8BkJYtFn50gK5717xgJZURG8krXBU)
-- 🔗 [Azimuthia](https://www.linkedin.com/posts/nextwys_transportationapp-techinnovation-ridehailing-activity-7275747075537911808-zdfH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAElgzf8BkJYtFn50gK5717xgJZURG8krXBU)
+- 🔗 [Azimuthia](https://www.linkedin.com/posts/nextwys_appdevelopment-innovation-casestudy-activity-7275061351994060801-PM2h?utm_source=share&utm_medium=member_desktop&rcm=ACoAAElgzf8BkJYtFn50gK5717xgJZURG8krXBU)
 
 
 ### 3. IUB CHECKPOINT Application
