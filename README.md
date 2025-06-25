@@ -51,7 +51,6 @@ Key Contributions:
 - Firebase Firestore + Storage for dynamic listings & images
 - Direct call and WhatsApp integration using URL launcher
 - Admin panel to manage rooms with image upload/validation
-- Evolved from a startup idea into a final-year academic project
 
 - 🔗 [Download Apk](https://drive.google.com/file/d/1HaUpbtY3RBUIuTgRwSAwgjVZgC3ekO6u/view?usp=sharing) 
 - 🎥 Watch Demo: [Click Here](https://drive.google.com/file/d/10-bBF3_dBgkao8vtr7wLR2KpJSJLQRVq/view?usp=sharing)  
@@ -59,6 +58,6 @@ Key Contributions:
 
 
 ## Contact
-- Phone No: ‪‪+92 3168576280‬‬
+- Phone No: ‪‪+923168576280‬‬
 - Gmail: 10azizurrehman@gmail.com
-- LinkedIn: ‪www.linkedin.com/in/azizrh10
+- LinkedIn: https://www.linkedin.com/in/azizrh10
