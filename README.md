@@ -15,8 +15,18 @@ With 2.5 years of hands-on experience and contributions to numerous mobile and d
 - 🎥 Watch Demo: *(Click the image below)*  
 [![Watch Demo](https://raw.githubusercontent.com/azizrh10/Aziz-Ur-Rehman---Flutter-Developer/main/packages-mall.png)](https://drive.google.com/file/d/1RrsTcfRt72AHuWVeFQfW-3WD7dN8mfzn/view?usp=sharing)
 
+### 2. NEXTWYS SOFTWARE SOLUTIONS
+I’ve worked on multiple Flutter projects, either as a lead developer or responsible for handling core logic and API integrations. My focus has been on implementing scalable architectures, integrating RESTful APIs, managing complex state, and delivering feature-rich, high-performance applications. I’ve also contributed to team coordination, task planning, and mentoring junior developers while ensuring consistent and maintainable code across projects.
 
-### 2. IUB CHECKPOINT Application
+Below are some of the key projects I’ve contributed to:
+  
+- 🔗 [Eagles Cars](https://www.linkedin.com/posts/nextwys_transportationapp-innovation-africantechsolutions-activity-7276911963287228417-KNYG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAElgzf8BkJYtFn50gK5717xgJZURG8krXBU)  
+- 🔗 [Cop Cup](https://www.linkedin.com/posts/nextwys_appdevelopment-foodtech-innovation-activity-7276115179308806144-dhVW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAElgzf8BkJYtFn50gK5717xgJZURG8krXBU)
+- 🔗 [Go Tawen](https://www.linkedin.com/posts/nextwys_transportationapp-techinnovation-ridehailing-activity-7275747075537911808-zdfH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAElgzf8BkJYtFn50gK5717xgJZURG8krXBU)
+- 🔗 [Azimuthia](https://www.linkedin.com/posts/nextwys_transportationapp-techinnovation-ridehailing-activity-7275747075537911808-zdfH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAElgzf8BkJYtFn50gK5717xgJZURG8krXBU)
+
+
+### 3. IUB CHECKPOINT Application
 - Developed a dual-interface Flutter app for university security to monitor bike entry and exit.
 - Designed a role-based system where guards used the user-side app, and admins controlled access approvals from the admin side.
 - Implemented dynamic vehicle check-ins: guards could input a bike number, auto-detect existing entries from Firebase Firestore, or add new ones with user details if not found.
@@ -28,7 +38,7 @@ With 2.5 years of hands-on experience and contributions to numerous mobile and d
 [![Watch Demo](https://raw.githubusercontent.com/azizrh10/Aziz-Ur-Rehman---Flutter-Developer/main/IUB-CHECKPOINT.png)](https://drive.google.com/file/d/1w_n4ZC2aHk-C32UwUQGHay6yZ2jOzIOB/view?usp=sharing)
 
 
-### 3. ROOMIFY Application
+### 4. ROOMIFY Application
 - Developed a cross-platform mobile app using Flutter and Firebase to connect students with nearby hostel/room listings.
 - Integrated Firestore and Firebase Storage to store dynamic listing data and images, ensuring realtime updates and scalability.
 - Implemented direct call and WhatsApp communication between students and team via URL launch schemes.
