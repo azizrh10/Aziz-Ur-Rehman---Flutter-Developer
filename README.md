@@ -1,24 +1,34 @@
 # Aziz Ur Rehman - Flutter Developer
 
-With 2.5 years of hands-on experience and contributions to numerous mobile and desktop applications, I’ve refined my skills as a Flutter developer. I’ve been a key contributor in building scalable, crossplatform solutions using Flutter, ensuring high performance and clean architecture. My expertise lies in integrating Firebase services (Firestore, Storage, Authentication), working with RESTful APIs for dynamic data-driven features, and implementing robust state management using Provider, Riverpod, and Bloc. I have also led development teams, mentored 
+With 2.5 years of hands-on experience and contributions to numerous mobile and desktop applications, I’ve refined my skills as a Flutter developer. I’ve been a key contributor in building scalable, cross-platform solutions using Flutter, ensuring high performance and clean architecture.
+
+ My expertise includes:
+- Integration of Firebase services (Firestore, Storage, Authentication)
+- RESTful API integrations for dynamic, data-driven features
+- State management using Provider, Riverpod, and Bloc
+- Clean code practices and mentoring junior developers
 
 ---
 
 ## 🛠 Projects
 
 ### 1. Packages Mall Application
-- Fixed bugs and optimize performance.
-- Enhanced the user experience by improving navigation flow and UI responsiveness.
-- Ensured smoother app functionality through clean code refactoring and debugging.
+- Fixed bugs and optimized performance
+- Improved navigation flow and UI responsiveness
+- Refactored code for better structure and smooth functionality  
   
 - 🔗 [Play Store Link](https://play.google.com/store/apps/details?id=com.packagesmall.packagesmallapp&pcampaignid=web_share)  
 - 🎥 Watch Demo: [Click Here](https://drive.google.com/file/d/1RrsTcfRt72AHuWVeFQfW-3WD7dN8mfzn/view?usp=sharing)  
 [![Watch Demo](https://raw.githubusercontent.com/azizrh10/Aziz-Ur-Rehman---Flutter-Developer/main/packages-mall.png)](https://drive.google.com/file/d/1RrsTcfRt72AHuWVeFQfW-3WD7dN8mfzn/view?usp=sharing)
 
 ### 2. NEXTWYS SOFTWARE SOLUTIONS
-I’ve worked on multiple Flutter projects, either as a lead developer or responsible for handling core logic and API integrations. My focus has been on implementing scalable architectures, integrating RESTful APIs, managing complex state, and delivering feature-rich, high-performance applications. I’ve also contributed to team coordination, task planning, and mentoring junior developers while ensuring consistent and maintainable code across projects.
+Worked on multiple Flutter projects, both as a lead developer and API integration expert. Responsibilities included:
+- Implementing scalable architecture
+- Integrating REST APIs
+- Managing complex state & performance optimization
+- Mentoring juniors and maintaining clean, reusable code
 
-Below are some of the key projects I’ve contributed to:
+Key Contributions:
   
 - 🔗 [Eagles Cars](https://www.linkedin.com/posts/nextwys_transportationapp-innovation-africantechsolutions-activity-7276911963287228417-KNYG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAElgzf8BkJYtFn50gK5717xgJZURG8krXBU)  
 - 🔗 [Cop Cup](https://www.linkedin.com/posts/nextwys_appdevelopment-foodtech-innovation-activity-7276115179308806144-dhVW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAElgzf8BkJYtFn50gK5717xgJZURG8krXBU)
@@ -27,24 +37,28 @@ Below are some of the key projects I’ve contributed to:
 
 
 ### 3. IUB CHECKPOINT Application
-- Developed a dual-interface Flutter app for university security to monitor bike entry and exit.
-- Designed a role-based system where guards used the user-side app, and admins controlled access approvals from the admin side.
-- Implemented dynamic vehicle check-ins: guards could input a bike number, auto-detect existing entries from Firebase Firestore, or add new ones with user details if not found.
-- Enabled real-time tracking of entry and exit events, storing history with timestamps and user information in Firestore.
-- Built a clean UI and ensured seamless interaction between guards and the backend.
-- Successfully deployed the solution for practical use by university security personnel.
+- Dual-interface app for university security (admin & guard)
+- Vehicle entry/exit tracking with real-time updates
+- Role-based system with Firebase Firestore backend
+- Stores user, vehicle, and timestamp history  
    
 - 🎥 Watch Demo: [Click Here](https://drive.google.com/file/d/1w_n4ZC2aHk-C32UwUQGHay6yZ2jOzIOB/view?usp=sharing)  
 [![Watch Demo](https://raw.githubusercontent.com/azizrh10/Aziz-Ur-Rehman---Flutter-Developer/main/IUB-CHECKPOINT.png)](https://drive.google.com/file/d/1w_n4ZC2aHk-C32UwUQGHay6yZ2jOzIOB/view?usp=sharing)
 
 
 ### 4. ROOMIFY Application
-- Developed a cross-platform mobile app using Flutter and Firebase to connect students with nearby hostel/room listings.
-- Integrated Firestore and Firebase Storage to store dynamic listing data and images, ensuring realtime updates and scalability.
-- Implemented direct call and WhatsApp communication between students and team via URL launch schemes.
-- Designed and built an admin panel for admin to upload and manage room listings with image support and validation.
-- Evolved the app from a personal business initiative into a fully functional final-year academic project, showcasing both technical and entrepreneurial skills.
+- Cross-platform app to connect students with hostel listings
+- Firebase Firestore + Storage for dynamic listings & images
+- Direct call and WhatsApp integration using URL launcher
+- Admin panel to manage rooms with image upload/validation
+- Evolved from a startup idea into a final-year academic project
 
 - 🔗 [Download Apk](https://drive.google.com/file/d/1HaUpbtY3RBUIuTgRwSAwgjVZgC3ekO6u/view?usp=sharing) 
 - 🎥 Watch Demo: [Click Here](https://drive.google.com/file/d/10-bBF3_dBgkao8vtr7wLR2KpJSJLQRVq/view?usp=sharing)  
 [![Watch Demo](https://raw.githubusercontent.com/azizrh10/Aziz-Ur-Rehman---Flutter-Developer/main/Roomify.png)](https://drive.google.com/file/d/10-bBF3_dBgkao8vtr7wLR2KpJSJLQRVq/view?usp=sharing)
+
+
+## Contact
+- Phone No: ‪‪+92 3168576280‬‬
+- Gmail: 10azizurrehman@gmail.com
+- LinkedIn: ‪www.linkedin.com/in/azizrh10
