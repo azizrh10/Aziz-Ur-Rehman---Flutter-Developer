@@ -15,4 +15,13 @@ With 2.5 years of hands-on experience and contributions to numerous mobile and d
 - 🎥 Watch Demo: *(Click the image below)*  
 [![Watch Demo](https://raw.githubusercontent.com/azizrh10/Aziz-Ur-Rehman---Flutter-Developer/main/packages-mall.png)](https://drive.google.com/file/d/1RrsTcfRt72AHuWVeFQfW-3WD7dN8mfzn/view?usp=sharing)
 
-
+### 2. IUB CHECKPOINT Application
+- Developed a dual-interface Flutter app for university security to monitor bike entry and exit.
+- Designed a role-based system where guards used the user-side app, and admins controlled access approvals from the admin side.
+- Implemented dynamic vehicle check-ins: guards could input a bike number, auto-detect existing entries from Firebase Firestore, or add new ones with user details if not found.
+- Enabled real-time tracking of entry and exit events, storing history with timestamps and user information in Firestore.
+- Built a clean UI and ensured seamless interaction between guards and the backend.
+- Successfully deployed the solution for practical use by university security personnel.
+   
+- 🎥 Watch Demo: *(Click the image below)*  
+[![Watch Demo](https://raw.githubusercontent.com/azizrh10/Aziz-Ur-Rehman---Flutter-Developer/main/IUB-CHECKPOINT.png)](https://drive.google.com/file/d/1w_n4ZC2aHk-C32UwUQGHay6yZ2jOzIOB/view?usp=sharing)
